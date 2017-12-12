@@ -1,0 +1,112 @@
+<style type="text/css">
+    * {
+        box-sizing: border-box;
+    }
+    body {
+        color: #878787;
+        margin: 0;
+        font-family: sans-serif;
+        text-align: center;
+    }
+    h1 {
+        font-size: 75px;
+        color: #000099;
+        text-transform: uppercase;
+        font-weight: normal;
+        text-shadow: 2px 2px white;
+    }
+    h2 {
+        font-size: 55px;
+        color: red;
+        font-weight: bold;
+    }
+    h3 {
+        font: navy;
+        font-size: 20px;
+        color: black;
+        font-weight: bolder;
+        text-decoration: underline;
+    }
+    h4 {
+        font-size: 15px;
+        color: #000099;
+        font-weight: normal;
+
+    }
+    img {
+        max-width: 100%;
+    }
+    .extra {
+        font-size: 25px;
+        color: green;
+        text-align: center;
+    }
+    .nav-bar {
+        list-style-type: none;
+        margin: 0;
+    }
+    .nav-bar-list {
+        float: left;
+        padding-top: 10px;
+    }
+    .nav-bar-link {
+        color: white;
+        font-size: 24px;
+        padding: 20px;
+        text-decoration: underline;
+    }
+    .main-header {
+        padding-top: 10px;
+        height: 850px;
+        background-size: cover;
+    }
+    .title {
+        color: white;
+        font-size: 1.5em;
+    }
+    .intro {
+        font-size: 1.25em;
+        line-height: 1.5em;
+        width: 50%;
+        margin: auto;
+        padding: 40px;
+    }
+    .box {
+        display: flex;
+        width: 80%;
+        margin: auto;
+    }
+    .card {
+        width: 100%;
+        padding: 20px;
+        text-align: left;
+        border: 1px black;
+        border-style: solid;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        background: lightgrey;
+        color: black;
+    }
+    .card2 {
+        width: 100%;
+        padding: 20px;
+        text-align: left;
+        border: 1px black;
+        border-style: solid;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        background: lightgrey;
+        color: black;
+    }
+    .card3 {
+        width: 100%;
+        padding: 20px;
+        text-align: left;
+        border: 1px black;
+        border-style: solid;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        background: lightgrey;
+        color: black;
+    }
+</style>
